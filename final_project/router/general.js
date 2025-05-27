@@ -44,7 +44,7 @@ public_users.post("/register", (req, res) => {
 // Get the book list available in the shop
 /*public_users.get("/", function (req, res) {
   // Send JSON response with formatted friends data
-  res.send(JSON.stringify(users, null, 4));
+  res.send(JSON.stringify(books, null, 4));
 });*/
 
 //================  refact code ==========================
